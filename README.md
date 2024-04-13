@@ -30,6 +30,8 @@ Usage
 1. Run the `Scraper.ipynb` file.
 2. Follow the prompts to input the job title, location, and time frame.
 3. View the extracted job listings.
+> Note: The amount of time it takes to retrieve the data depends on the availability of the job listings on Indeed.
+
 
 Contributing
 ------------
