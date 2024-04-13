@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Usage
 -----
 
-1. Run the `main.py` file.
+1. Run the `Scraper.ipynb` file.
 2. Follow the prompts to input the job title, location, and time frame.
 3. View the extracted job listings.
 
